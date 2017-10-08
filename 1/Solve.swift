@@ -1,4 +1,4 @@
-longestSotred<V: Comparable>(arr: [V]) -> [(position: Int, length: Int)] {
+func longestSotred<V: Comparable>(arr: [V]) -> [(position: Int, length: Int)] {
 	func _longestSorted<V: Comparable>(_ stortedArr: [V], 
 									   _ arr: [V],
 									   _ idx: Int, 
