@@ -5,6 +5,6 @@ Given an array, find all prosition and length of longest ascending sorted sub-ar
 
 [1,1,1,1] -> [(0,4)]
 
-[1,2,3] -> [0,3]
+[1,2,3] -> [(0,3)]
 ## Test cases:
 Not yet 
