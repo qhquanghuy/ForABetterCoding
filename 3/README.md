@@ -24,7 +24,7 @@ let rentalCars = [
   RentalCar(car: Car(brand: "audi", price: 30000, seats: 4), rentalPrice: 25, times: 1200),
 ]
 ```
-How could you sort rentalCars array in order like: car brand ASC then car price DESC then profit DESC.
+How could you sort rentalCars array in order like: car's brand ASC then car's price DESC then profit DESC.
 The result should look like this:
 ```swift
 let sortedRentalCars = [
