@@ -32,7 +32,7 @@ let sortedRentalCars = [
   RentalCar(car: Car(brand: "audi", price: 30000, seats: 4), rentalPrice: 25, times: 1200),
   RentalCar(car: Car(brand: "audi", price: 25000, seats: 4), rentalPrice: 25, times: 1000),
   RentalCar(car: Car(brand: "honda", price: 15000, seats: 6), rentalPrice: 15, times: 1000),
-  RentalCar(car: Car(brand: "honda", price: 8000, seats: 6), rentalPrice: 25, times: 15000),
+  RentalCar(car: Car(brand: "honda", price: 8000, seats: 6), rentalPrice: 20, times: 15000),
   RentalCar(car: Car(brand: "honda", price: 8000, seats: 4), rentalPrice: 25, times: 10000),
   RentalCar(car: Car(brand: "toyota", price: 5000, seats: 4), rentalPrice: 25, times: 15000),
 ]
